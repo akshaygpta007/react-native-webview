@@ -12,7 +12,7 @@ import android.os.Environment;
 import android.os.Parcelable;
 import android.provider.MediaStore;
 import androidx.annotation.RequiresApi;
-import androidx.core.content.ContextCompatt;
+import androidx.core.content.ContextCompat;
 import androidx.core.content.FileProvider;
 import android.util.Log;
 import android.webkit.MimeTypeMap;
